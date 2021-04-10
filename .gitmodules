@@ -1,3 +1,6 @@
 [submodule "tags"]
 	path = tags
 	url = git@github.com:dillionmegida/gatsby-remark-liquid-tags.git
+[submodule "esgit"]
+	path = esgit
+	url = git@github.com:dillionmegida/esgit.git
